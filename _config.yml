@@ -21,8 +21,8 @@
 title: Jay-You Tech Blog
 email: esse.prime.guy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  학습한 내용을 자유롭게 포스팅하는 기술 블로그 입니다. 
-  부정확한 부분이 있을 수 있는 점 미리 양해부탁드립니다.
+  학습한 내용을 자유롭게 포스팅하는 기술 블로그 입니다.   
+  부정확한 부분이 있을 수 있는 점 미리 양해부탁드립니다 :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jisangyou
